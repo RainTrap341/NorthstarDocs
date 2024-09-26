@@ -10,7 +10,6 @@
 
 ### RPSNVPK's
 
-- [squidgyberries RSPNVPK](https://github.com/squidgyberries/RSPNVPK)
 - [taskinoz RSPNVPK](https://github.com/taskinoz/RSPNVPK)
 - [Provoxin RSPNVPK](https://github.com/Provoxin/RSPNVPK-GUI)
 
@@ -55,7 +54,6 @@
 - [GIF splitter](https://ezgif.com/split)
 - [Rad Tools Bik](http://www.radgametools.com/bnkdown.htm) (needs [Quicktime 7.6](https://support.apple.com/downloads/quicktime))
 - [TexFactory easy DDS conversion](https://otherbenji.gitlab.io/TexFactory/)
-- [Substance Painter to TF2](https://github.com/EM4Volts/tf-2_substance_maker)
 
 - [Tacent View](https://github.com/bluescan/tacentview) - DDS viewer.
 
